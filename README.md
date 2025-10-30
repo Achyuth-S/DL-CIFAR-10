@@ -239,12 +239,10 @@ See `requirements.txt` for complete list. Main libraries:
 - TensorFlow CNN Tutorial: https://www.tensorflow.org/tutorials/images/cnn
 - Keras Documentation: https://keras.io/api/datasets/cifar10/
 
-## License
-This project is available under the MIT License.
 
 ## Author
-[Your Name]  
-[Your Email/GitHub]  
+[Achyuth Samavedhi]  
+[achyuth.samavedhi@gmail.com]  
 [Date: October 2025]
 
 ## Acknowledgments
